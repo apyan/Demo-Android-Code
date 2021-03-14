@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="base_url">https://duckduckgo.com</string>
+
+    <string name="status_select">Select to view character</string>
+    <string name="status_connect">Connection not found!\nPlease try again</string>
+
+    <string name="search_hint">Search for a character</string>
+</resources>

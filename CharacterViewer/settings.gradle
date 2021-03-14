@@ -1,0 +1,5 @@
+include ':app:CharacterViewerLibrary'
+include ':app:simpsonsviewer'
+include ':app:wireviewer'
+include ':app'
+rootProject.name = "Character Viewer"
