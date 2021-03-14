@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodTrucks</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="action_map">Map</string>
+    <string name="action_list">List</string>
+
+    <string name="status_no_connection">No connection found.</string>
+    <string name="status_no_result">No food trucks are opened.</string>
+</resources>
