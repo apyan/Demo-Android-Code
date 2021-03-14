@@ -1,6 +1,6 @@
 # Demo-Android-Code
-Demo Code, no questions asked!
+Demo Code
 
-Character Viewer - View characters
+Character Viewer - View characters (Few crashes)
 
 FoodTrucks - View food trucks
